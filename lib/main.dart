@@ -76,7 +76,7 @@ class MyApp extends StatelessWidget {
           textTheme: GoogleFonts.robotoTextTheme(Theme.of(context).textTheme),
         ),
         debugShowCheckedModeBanner: false,
-        title: 'EuroNewsTest',
+        title: 'EuroNewsTest2',
         home: Scaffold(
           appBar: MyAppBar(),
           drawer: MyDrawer(),
